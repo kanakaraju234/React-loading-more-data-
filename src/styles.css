@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.usersList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.usersInfo {
+  flex: 2;
+}
